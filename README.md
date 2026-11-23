@@ -12,7 +12,7 @@
 
 </div>
 
-> Следующий шаг этого проекта — контейнеризация и автоматический CI/CD: **[kittygram_final](https://github.com/JuliaDJ1/kittygram_final)**.
+> Следующий шаг этого проекта — контейнеризация и автоматический CI/CD: **[kittygram_final](https://github.com/vadim-guseinov/kittygram_final)**.
 
 ## О проекте
 
@@ -45,7 +45,7 @@ Ubuntu · Nginx · Gunicorn · systemd · Let's Encrypt / certbot · Python · D
 **Требования:** Python 3.9–3.10 (версии зависимостей закреплены под них).
 
 ```bash
-git clone https://github.com/JuliaDJ1/infra_sprint1.git
+git clone https://github.com/vadim-guseinov/infra_sprint1.git
 cd infra_sprint1
 python -m venv venv
 source venv/bin/activate        # Windows: venv\Scripts\activate
