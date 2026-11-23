@@ -1,5 +1,5 @@
 IP: 158.160.244.30;
 name_taski: https://oldtaski.servebeer.com;
 name_kittygram: https://kittygramsite.servebeer.com;
-login: admin;
-password: 1234567890d;
+login: hidden;
+password: hidden;
